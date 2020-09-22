@@ -1,0 +1,16 @@
+react Basic:
+
+
+1)SPA :  
+  	single page application.
+2) MPA: 
+	Multiple page Application. (old technique)
+
+serviceworker.js file is use when we use ap as an offline or faster.
+reactDom get two vakue one component and 2nd position where render to it.
+
+
+when we use html coding in JS function it is called JSX
+
+1)class components    (old technique)
+2) function components
